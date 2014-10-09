@@ -294,4 +294,9 @@
     <string name="game_space_title">Game Space</string>
     <string name="game_space_summary">Verbessern Sie Ihr Spielerlebnis</string>
 
+    <!-- Changelog -->
+    <string name="changelog_title">Änderungshistorie</string>
+    <string name="changelog_summary">Seit dem letzten Update</string>
+    <string name="changelog_error">Changelog kann nicht geladen werden</string>
+
 </resources>
