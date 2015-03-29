@@ -108,4 +108,7 @@
     <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Suchen Sie den Fingerabdrucksensor auf der linken Seite Ihres Tablets.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Suchen Sie den Fingerabdrucksensor auf der rechten Seite Ihres Tablets.</string>
 
+    <!-- Screenshot shutter -->
+    <string name="screenshot_shutter_sound_title">Bildschirmfoto-Ton</string>
+
 </resources>
