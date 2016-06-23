@@ -93,4 +93,19 @@
     <string name="wake_when_plugged_or_unplugged_title">Beim Einstecken aufwecken</string>
     <string name="wake_when_plugged_or_unplugged_summary">Beim Anschließen oder Trennen einer Stromquelle den Bildschirm einschalten</string>
 
+    <!-- Fingerprint location message - default -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="default">Suchen Sie den Fingerabdrucksensor auf der Vorderseite Ihres Telefons.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="default">Suchen Sie den Fingerabdrucksensor auf der linken Seite Ihres Telefons.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="default">Suchen Sie den Fingerabdrucksensor auf der rechten Seite Ihres Telefons.</string>
+
+    <!-- Fingerprint location message - generic -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="device">Suchen Sie den Fingerabdrucksensor auf der Vorderseite Ihres Geräts.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="device">Suchen Sie den Fingerabdrucksensor auf der linken Seite Ihres Geräts.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="device">Suchen Sie den Fingerabdrucksensor auf der rechten Seite Ihres Geräts.</string>
+
+    <!-- Fingerprint location message - tablet -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">Suchen Sie den Fingerabdrucksensor auf der Vorderseite Ihres Tablets.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Suchen Sie den Fingerabdrucksensor auf der linken Seite Ihres Tablets.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Suchen Sie den Fingerabdrucksensor auf der rechten Seite Ihres Tablets.</string>
+
 </resources>
