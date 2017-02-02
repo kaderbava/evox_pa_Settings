@@ -166,4 +166,5 @@
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Tap to show info</string>
 
+    <string name="background_processes_settings_title">Background processes</string>
 </resources>
