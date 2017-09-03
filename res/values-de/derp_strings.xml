@@ -257,4 +257,10 @@
     <string name="berry_black_theme_title">Reines Schwarz</string>
     <string name="berry_black_theme_summary">Rein schwarzer Hintergrund für dunkles Design</string>
 
+    <!-- Torch Power button gestures -->
+    <string name="torch_power_button_gesture_title">Taschenlampen-Funktion bei ausgeschaltetem Bildschirm</string>
+    <string name="torch_power_button_gesture_none">Ausgeschaltet</string>
+    <string name="torch_power_button_gesture_dt">Zum Einschalten der Taschenlampe Ein-/Aus-Taste doppelt drücken (kleine Verzögerung zum einfachem Tippen)</string>
+    <string name="torch_power_button_gesture_lp">Ein-/Aus-Taste lange drücken zum Anschalten der Taschenlampe</string>
+
 </resources>
