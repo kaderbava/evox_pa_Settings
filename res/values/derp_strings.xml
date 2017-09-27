@@ -19,6 +19,12 @@
     <string name="maintainer">Maintainer</string>
     <string name="maintainer_name">Your local GitHub Retard</string>
 
+    <!-- DerpFest Updater -->
+    <string name="update_settings_title">DerpFest Updater</string>
+    <string name="update_settings_summary">Check for the latest version of the ROM</string>
+    <string name="update_package" translatable="false">org.lineageos.updater</string>
+    <string name="update_activity" translatable="false">org.lineageos.updater.UpdatesActivity</string>
+
     <!-- Fingerprint location message - default -->
     <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="default">Locate the fingerprint sensor on the front of your phone.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="default">Locate the fingerprint sensor on the left side of your phone.</string>
@@ -50,7 +56,7 @@
     <string name="derp_settings_summary">Where the derped stuff is placed</string>
 
     <!-- Summary text for system preference tile, showing important setting items under system setting [CHAR LIMIT=NONE]-->
-    <string name="system_dashboard_custom_summary">Languages, time, backup</string>
+    <string name="system_dashboard_custom_summary">Languages, updater, time, backup</string>
 
     <!-- SELinux Status -->
     <string name="selinux_status">SELinux status</string>
