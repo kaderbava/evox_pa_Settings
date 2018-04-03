@@ -12,6 +12,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- DerpFest maintainer -->
+    <string name="maintainer">Entwickler</string>
+
     <!-- Fingerprint location message - default -->
     <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="default">Suchen Sie den Fingerabdrucksensor an der Vorderseite Ihres Telefons.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="default">Suchen Sie den Fingerabdrucksensor auf der linken Seite Ihres Telefons.</string>
