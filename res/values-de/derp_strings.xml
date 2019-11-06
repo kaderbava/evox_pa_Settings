@@ -147,4 +147,6 @@
 
     <string name="ambient_wake_gestures_title">Ambient-Weckgesten</string>
     <string name="ambient_wake_gestures_summary">Ambient Display anstelle des normalem Sperrbildschirms bei Weckgesten anzeigen</string>
+
+    <string name="swap_volume_keys_on_rotation_title">Vertauschen Sie die Lautstärketasten beim Drehen des Geräts</string>
 </resources>
