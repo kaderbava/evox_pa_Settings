@@ -70,4 +70,8 @@
     <string name="less_boring_heads_up_title">Weniger Störungen durch Pop-up-Benachrichtigungen</string>
     <string name="less_boring_heads_up_summary">Pop-up-Benachrichtigungen nur für Telefon oder Messenger-Apps anzeigen, wenn diese nicht im Vordergrund sind</string>
 
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="three_finger_gesture">Wischen für Bildschirmfoto</string>
+    <string name="three_finger_gesture_summary">Mit drei Fingern wischen, um ein Bildschirmfoto aufzunehmen</string>
+
 </resources>
