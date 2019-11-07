@@ -100,4 +100,8 @@
 
     <!-- Volume panel on left switch -->
     <string name="volume_panel_on_left_title">Lautstärkefenster links anzeigen</string>
+
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="three_finger_gesture">Wischen zum Screenshot</string>
+    <string name="three_finger_gesture_summary">Wischen Sie mit drei Fingern, um einen Screenshot aufzunehmen</string>
 </resources>
