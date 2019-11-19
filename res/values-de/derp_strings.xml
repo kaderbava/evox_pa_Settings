@@ -263,4 +263,8 @@
     <string name="torch_power_button_gesture_dt">Zum Einschalten der Taschenlampe Ein-/Aus-Taste doppelt drücken (kleine Verzögerung zum einfachem Tippen)</string>
     <string name="torch_power_button_gesture_lp">Ein-/Aus-Taste lange drücken zum Anschalten der Taschenlampe</string>
 
+    <!-- Doze on charge -->
+    <string name="doze_on_charge_title">AOD beim Laden</string>
+    <string name="doze_on_charge_summary">Während des Ladevorgangs wird der Ruhebildschirm ständig angezeigt</string>
+
 </resources>
