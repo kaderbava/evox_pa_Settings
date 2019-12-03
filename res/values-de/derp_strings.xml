@@ -62,4 +62,8 @@
     <string name="global_actions_advanced_reboot_title">Erweiterten Neustart aktivieren</string>
     <string name="global_actions_advanced_reboot_summary">Optionen für Recovery und Bootloader im Power-Menü anzeigen</string>
 
+    <!-- Annoying Notifs -->
+    <string name="notification_sound_vib_screen_on_title">Benachrichtigungston bei bei eingeschaltetem Bildschirm</string>
+    <string name="notification_sound_vib_screen_on_summary">Töne und Vibrationen für Benachrichtigungen abspielen, wenn der Bildschirm eingeschaltet ist</string>
+
 </resources>
