@@ -51,6 +51,10 @@
     <string name="battery_stats_message">Battery usage data will be lost</string>
     <string name="battery_stats_clear">@string/proxy_clear_text</string>
 
+    <!-- Gestures: Touchscreen gestures -->
+    <string name="touchscreen_gesture_settings_title">Touchscreen gestures</string>
+    <string name="touchscreen_gesture_settings_summary">Perform various touchscreen gestures for quick actions</string>
+
     <!-- DerpQuest Settings strings -->
     <string name="derp_settings_title">DerpQuest</string>
     <string name="derp_settings_summary">Where the derped stuff is placed</string>
