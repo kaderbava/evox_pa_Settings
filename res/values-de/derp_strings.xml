@@ -44,4 +44,8 @@
     <string name="selinux_status_permissive">Permissive</string>
     <string name="selinux_status_enforcing">Enforcing</string>
 
+    <!-- PIN scrambling -->
+    <string name="scramble_pin_title">PIN-Scrambling</string>
+    <string name="scramble_pin_summary">Steuert die PIN-Scrambling-Option bei der Eingabe der PIN über die Bildschirmsperre.</string>
+
 </resources>
