@@ -116,4 +116,8 @@
     <!-- Doze on charge -->
     <string name="doze_on_charge_title">AOD beim Laden</string>
     <string name="doze_on_charge_summary">Zeigen Sie beim Laden den AOD-Bildschirm an</string>
+
+    <!-- Swipe up for face unlock -->
+    <string name="security_settings_face_require_swipe">Zum Entsperren nach oben wischen</string>
+    <string name="security_settings_face_require_swipe_summary">Auf dem Sperrbildschirm nach oben wischen, um Face Unlock zu verwenden</string>
 </resources>
