@@ -36,4 +36,7 @@
     <!-- Volume link notification -->
     <string name="volume_link_notification_title">Klingelton- und Benachrichtigungslautstärke verknüpfen</string>
 
+    <!-- Vibration patterns -->
+    <string name="vibration_pattern_title">Klingelton-Vibrationsmuster</string>
+
 </resources>
