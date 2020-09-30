@@ -167,4 +167,8 @@
     <string name="device_info_protected_single_press">Tap to show info</string>
 
     <string name="background_processes_settings_title">Background processes</string>
+
+    <!-- Clock style -->
+    <string name="clock_style_title">Clock style</string>
+    <string name="clock_style_summary">Customize lockscreen clock</string>
 </resources>
