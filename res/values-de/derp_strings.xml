@@ -192,4 +192,8 @@
     <!-- Running services -->
     <string name="background_processes_settings_title">Hintergrundprozesse</string>
 
+    <!-- Misc gesture settings -->
+    <string name="back_gesture_haptic_title">Haptisches Feedback</string>
+    <string name="back_gesture_haptic_summary">Aktivieren Sie den haptischen Tick-Effekt bei der Zurück-Geste</string>
+
 </resources>
