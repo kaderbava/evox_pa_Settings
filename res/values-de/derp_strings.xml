@@ -48,4 +48,8 @@
     <string name="scramble_pin_title">PIN-Scrambling</string>
     <string name="scramble_pin_summary">Steuert die PIN-Scrambling-Option bei der Eingabe der PIN über die Bildschirmsperre.</string>
 
+    <!-- Misc gesture settings -->
+    <string name="back_gesture_haptic_title">Haptisches Feedback</string>
+    <string name="back_gesture_haptic_summary">Aktivieren Sie den haptischen Tick-Effekt bei der Rückengeste</string>
+
 </resources>
