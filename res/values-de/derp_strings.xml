@@ -97,4 +97,7 @@
     <string name="lockscreen_tweaks_category_title">Was ist zu tun?</string>
     <string name="proximity_wake_title">Versehentliches Aufwecken verhindern</string>
     <string name="proximity_wake_summary">Überprüft den Näherungssensor, bevor der Bildschirm aufgeweckt wird</string>
+
+    <!-- Volume panel on left switch -->
+    <string name="volume_panel_on_left_title">Lautstärkefenster links anzeigen</string>
 </resources>

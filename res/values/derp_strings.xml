@@ -103,4 +103,7 @@
     <string name="lockscreen_tweaks_category_title">What to do?</string>
     <string name="proximity_wake_title">Prevent accidental wake-up</string>
     <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen</string>
+
+    <!-- Volume panel on left switch -->
+    <string name="volume_panel_on_left_title">Show volume panel on left</string>
 </resources>
