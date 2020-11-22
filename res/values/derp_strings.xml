@@ -69,4 +69,7 @@
     <string name="vibration_intensity_medium">Medium</string>
     <string name="vibration_intensity_high">High</string>
 
+    <!-- Min refresh rate -->
+    <string name="min_refresh_rate_title">Minimum refresh rate</string>
+
 </resources>

@@ -41,4 +41,7 @@
     <string name="pattern_custom">Benutzerdefiniert</string>
     <string name="custom_vibration_pattern_title">Benutzerdefiniertes Muster</string>
 
+    <!-- Min refresh rate -->
+    <string name="min_refresh_rate_title">Minimale Aktualisierungsrate</string>
+
 </resources>
