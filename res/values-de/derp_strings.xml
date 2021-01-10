@@ -275,4 +275,9 @@
     <string name="default_font">Google Sans (Standard)</string>
     <string name="default_icon_pack">AOSP + Oxygen (Standard)</string>
 
+    <!-- Doze on double tap -->
+    <string name="double_tap_title">Doppeltippen</string>
+    <string name="doze_double_tap_title">Doppeltippen, um das Telefon zu überprüfen</string>
+    <string name="doze_double_tap_summary">Pulsbenachrichtigungen durch Doppeltippen</string>
+
 </resources>
