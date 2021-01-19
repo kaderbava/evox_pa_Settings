@@ -314,4 +314,7 @@
     <string name="custom_light_off_time_title">Light OFF time during led pulse (ms)</string>
     <string name="value_equals_default">def</string>
 
+    <string name="default_font">Google Sans (default)</string>
+    <string name="default_icon_pack">AOSP + Oxygen (default)</string>
+
 </resources>
