@@ -84,6 +84,7 @@ android_library {
         "android.hardware.dumpstate-V1.1-java",
         "lottie",
         "VendorSupport-preference",
+        "glide",
         "androidx.navigation_navigation-common-ktx",
         "androidx.navigation_navigation-fragment-ktx",
         "androidx.navigation_navigation-runtime-ktx",
@@ -144,4 +145,9 @@ filegroup {
 filegroup {
     name: "Settings_manifest",
     srcs: ["AndroidManifest.xml"],
+}
+
+android_library_import {
+    name: "glide",
+    aars: ["libs/glide-4.9.0.aar"],
 }
