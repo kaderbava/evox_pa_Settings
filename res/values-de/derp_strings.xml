@@ -244,4 +244,8 @@
     <string name="fullscreen_gestures_title">Navbar-Pille ausblenden</string>
     <string name="fullscreen_gestures_summary">Navbar-Pille und Tastaturbereich ausblenden</string>
 
+    <string name="gesture_navbar_length_title">Länge der Navbar-Pille</string>
+    <string name="short_label">Kurz</string>
+    <string name="long_label">Lang</string>
+
 </resources>
