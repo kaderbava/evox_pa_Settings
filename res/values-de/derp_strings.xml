@@ -253,4 +253,8 @@
     <string name="lockpattern_settings_enable_error_path_title">Sperrmuster-Fehler anzeigen</string>
     <string name="lockpattern_settings_enable_dots_title">Sperrmuster-Punkte anzeigen</string>
 
+    <!-- Black theme for dark mode -->
+    <string name="berry_black_theme_title">Reines Schwarz</string>
+    <string name="berry_black_theme_summary">Rein schwarzer Hintergrund für dunkles Design</string>
+
 </resources>

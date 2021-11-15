@@ -55,4 +55,10 @@
         android:title="@string/night_display_end_time_title"
         settings:searchable="false"/>
 
+    <com.derp.support.preferences.SystemSettingSwitchPreference
+        android:key="enable_darker_theme"
+        android:title="@string/darker_theme_enable_title"
+        android:summary="@string/darker_theme_enable_summary"
+        android:defaultValue="false" />
+
 </PreferenceScreen>
