@@ -240,4 +240,8 @@
     <string name="back_swipe_extended_title">Erweiterte Wischgeste</string>
     <string name="back_swipe_extended_summary">Aktion auslösen bei langem Wischen (mehr als die Hälfte des Bildschirms) oder einem L-Wischen (lange vertikal)</string>
 
+    <!-- Fullscreen gestures -->
+    <string name="fullscreen_gestures_title">Navbar-Pille ausblenden</string>
+    <string name="fullscreen_gestures_summary">Navbar-Pille und Tastaturbereich ausblenden</string>
+
 </resources>
