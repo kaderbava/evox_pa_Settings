@@ -316,6 +316,8 @@
 
     <string name="default_font">Google Sans (default)</string>
     <string name="default_icon_pack">AOSP + Oxygen (default)</string>
+    <string name="default_signal_icon">AOSP (default)</string>
+    <string name="default_wifi_icon">AOSP (default)</string>
 
     <!-- Doze on double tap -->
     <string name="double_tap_title">Double tap</string>

@@ -97,6 +97,12 @@ public class OverlayCategoryPreferenceController extends DeveloperOptionsPrefere
             case "android.theme.customization.icon_pack":
                 label = mContext.getString(R.string.default_icon_pack);
                 break;
+            case "android.theme.customization.signal_icon":
+                label = mContext.getString(R.string.default_signal_icon);
+                break;
+            case "android.theme.customization.wifi_icon":
+                label = mContext.getString(R.string.default_wifi_icon);
+                break;
          }
          return label;
     }
